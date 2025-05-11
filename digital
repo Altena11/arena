@@ -172,7 +172,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 ################################################################ASTRXX SPORTS#####################################################################################
 
 group-logo="https://iili.io/3O8mkdv.jpg"
-#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS ASTRXX" group-logo="group-logo="https://iili.io/3O8mkdv.jpg"" ch-number="801" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena (2024).png",801 Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS ASTRXX" group-logo="https://iili.io/3O8mkdv.jpg"" ch-number="801" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena (2024).png",801 Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2604
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; T506D Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6204.0 Safari/537.36
@@ -316,7 +316,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
 
 ############################################################SPORTS ASTRXX##################################################################
 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://iili.io/3O8mkdv.jpg" group-title="SPORTS ASTRXX",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="beINSports" ch-number="820" tvg-name="beIN Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-logo="https://iili.io/3O8mkdv.jpg" group-title="SPORTS ASTRXX", 820 BeINSports
