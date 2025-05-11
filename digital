@@ -316,7 +316,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
 
 ############################################################SPORTS ASTRXX##################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://iili.io/3O8mkdv.jpg" group-title="SPORTS ASTRXX",
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="beINSports" ch-number="820" tvg-name="beIN Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-logo="https://iili.io/3O8mkdv.jpg" group-title="SPORTS ASTRXX", 820 BeINSports
