@@ -177,7 +177,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 ################################################################ASTRXX SPORTS#####################################################################################
 group-logo="https://iili.io/3O8mkdv.jpg"
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="SPORTS ASTRXX" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",801 Astro Arena
@@ -341,7 +341,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS", WWE Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS ASTRXX", WWE Network
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
