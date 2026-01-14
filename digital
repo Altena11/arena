@@ -56,12 +56,12 @@ https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-#EXTHTTP:{"X-API-Key":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJzaTh1OGkiLCJleHAiOjE3NjgzOTkyMjIsImlhdCI6MTc2ODM3NzYyMiwicmVmZXJyZXIiOiJrYXNlbHVyazk5OSIsInNlcnZlcl9pcCI6IjIwMi4xODQuNzIuMjA3IiwidXVpZCI6ImY4MzI4NzQzMjI1MDYyOTg2NjU1ZWQ0NzUxMGY3MmE1In0.kmGpW65GQYaQmASurVRZRTEzxpNIWlxdlmmUp2ePdJc","token":"3xbEXwb2RJ0EsDNJhS6fjsaTtLYAi6zrc3cGbiCQ6kjbh2D-TEZ9oVoo"}
+#EXTHTTP:{"X-API-Key":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJzaTh1OGkiLCJleHAiOjE3Njg0MDUxMjgsImlhdCI6MTc2ODM4MzUyOCwicmVmZXJyZXIiOiJrYXNlbHVyazk5OSIsInNlcnZlcl9pcCI6IjIwMi4xODQuNzIuMjA3IiwidXVpZCI6IjUyZDRlYzUyNWJkOTcyMWNiNDA5NjNhYmVmM2YxOGM0In0.1Bc02YVk0zBWf8uodJsAZaQLZuncYjwr5jTI5MSNEw8","token":"CPoPo_Mv0uz6CaoNMWobt1DgRfqiRBGeiGIakWBSIgRvZaCjo3eCV0YB"}
 https://gateway.samhub.my.id/proxy/arena-bola/720/sxxka.mpd
 
 
 ##804
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD
+@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
@@ -76,6 +76,12 @@ https://linears2-playback.astro.com.my/vsg/41g4qjMSoW9fg51ZbUW8209PvCxoTGJ4iakl-
 #KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
 https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjgyNjI5NzIsImlzcyI6IlZSIiwiZXhwIjoxNzY4MzQzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNzJkMjE5ZGEtMTlmMi00ZDU3LWIzMWQtMmNlMDc2OTI1MzEyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.p_onl60BcXZDZk7C2xdDQFUVWHSWMZqmR84XC7mFRMs
 
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
+#EXTHTTP:{"X-API-Key":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJzaTh1OGkiLCJleHAiOjE3Njg0MDUxMjgsImlhdCI6MTc2ODM4MzUyOCwicmVmZXJyZXIiOiJrYXNlbHVyazk5OSIsInNlcnZlcl9pcCI6IjIwMi4xODQuNzIuMjA3IiwidXVpZCI6IjUyZDRlYzUyNWJkOTcyMWNiNDA5NjNhYmVmM2YxOGM0In0.1Bc02YVk0zBWf8uodJsAZaQLZuncYjwr5jTI5MSNEw8","token":"CPoPo_Mv0uz6CaoNMWobt1DgRfqiRBGeiGIakWBSIgRvZaCjo3eCV0YB"}
+https://gateway.samhub.my.id/proxy/arena-bola-2/1080/sxxka.mpd
 
 
 ##811
@@ -134,7 +140,7 @@ https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0bbb23a5ad81427fa6817864b2383402":"81e055a8d6ddf6392ae9033f0f037b98","1bca05447d354cb4913a66e125fb75ef":"45253aa554c444961fb6a4432abb6b1c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-#EXTHTTP:{"X-API-Key":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJzaTh1OGkiLCJleHAiOjE3NjgzODM3NzgsImlhdCI6MTc2ODM2MjE3OCwicmVmZXJyZXIiOiJrYXNlbHVyazk5OSIsInNlcnZlcl9pcCI6IjIwMi4xODQuNzIuMjA3IiwidXVpZCI6IjBkNjY0ZDRjZDNlMTA2NGRiMzFkMjY4YzRlMTZkOTM4In0.ceWwWoPr5N34KKXtrxEF09HnCbKoqWLvGMn3BqNsqlQ","token":"XuQCnA9XnR7IZ5jeqvvt6BjhR4_-1Weozwz37smbAYDV4ufsbU9Nw-j5"}
+#EXTHTTP:{"X-API-Key":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiJzaTh1OGkiLCJleHAiOjE3Njg0MDUxMjgsImlhdCI6MTc2ODM4MzUyOCwicmVmZXJyZXIiOiJrYXNlbHVyazk5OSIsInNlcnZlcl9pcCI6IjIwMi4xODQuNzIuMjA3IiwidXVpZCI6IjUyZDRlYzUyNWJkOTcyMWNiNDA5NjNhYmVmM2YxOGM0In0.1Bc02YVk0zBWf8uodJsAZaQLZuncYjwr5jTI5MSNEw8","token":"CPoPo_Mv0uz6CaoNMWobt1DgRfqiRBGeiGIakWBSIgRvZaCjo3eCV0YB"}
 https://gateway.samhub.my.id/proxy/badminton/720/sxxka.mpd
 
 
