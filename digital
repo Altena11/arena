@@ -426,19 +426,19 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/
 
 
 
-############################# COMMON SPORT
+############################# BeIN SPORTS
 
-#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://i.ibb.co/Cp1QZcjr/bein-sports-1-logo-png-seeklogo-481583.png" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144",BeIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://i.ibb.co/Cp1QZcjr/bein-sports-1-logo-png-seeklogo-481583.png" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144",BeIN SPORTS 1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41L13_hVoq26VBtdONYeTdX-mlXFJFiRfzclXpx0U1Zyc=8HAX/dash-wv/jitp-linearwm/408/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41R9HwOLEdrX6XIRjESJHbh0EiNgs4AEX_c9IsfHf9DDI=9nb3/dash-wv/jitp-linearwm/408/default_ott.mpd
 
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://i.ibb.co/GfLprFRr/bein-sports-2-logo-png-seeklogo-481584.png",BeIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://i.ibb.co/GfLprFRr/bein-sports-2-logo-png-seeklogo-481584.png",BeIN SPORTS 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41n7WO_k_ABrA_9R595YYGPtmccNMT52c6X4VLtfaEhG4=yylv/dash-wv/jitp-linearwm/5066/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/419sfeOJLK0nPKF2LPhpzHD0QpUs8Icp4N8vyE5BQLjX8=zpLs/dash-wv/jitp-linearwm/5066/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
@@ -446,7 +446,7 @@ https://linears2-playback.astro.com.my/vsg/41n7WO_k_ABrA_9R595YYGPtmccNMT52c6X4V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-
+--------------------------------------------------------------------
 #EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" tvg-chno="2904" group-title="Sports",WWE Superstar Central (USA)
 https://jmp2.uk/stvp-US700005ID
 
